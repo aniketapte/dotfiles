@@ -1,0 +1,14 @@
+set ai
+set cindent
+set ts=4
+set shiftwidth=4
+set expandtab
+set tw=80
+set incsearch
+set ruler
+set laststatus=2
+set hlsearch
+set ignorecase
+set nobackup
+syn on
+set background=dark
